@@ -33,7 +33,7 @@ namespace TPL
         }
 
         /// <summary>
-        /// Метод заполняющий матрицы случайными числами
+        /// Метод заполняющий матрицы случайными числами 
         /// </summary>
         /// <param name="matrix"></param>
         static void Completion(int[,] matrix)
